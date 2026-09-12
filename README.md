@@ -12,9 +12,8 @@
 | `前传字体` | 《秦殇前传》所用字体，相比原版有所改善 |
 | `本mod字体` | 本 Mod 采用的字体，**可读性更强** |
 
-<img width="2104" height="1447" alt="compare32" src="https://github.com/user-attachments/assets/3af6fdd6-9e42-4f1b-be03-86a1446b3fc4" />
 <img width="1978" height="1447" alt="compare3" src="https://github.com/user-attachments/assets/46afeebf-1785-4d7a-a455-bda9c1119434" />
-
+<img width="2104" height="1447" alt="compare32" src="https://github.com/user-attachments/assets/3af6fdd6-9e42-4f1b-be03-86a1446b3fc4" />
 
 ## 安装方法
 
